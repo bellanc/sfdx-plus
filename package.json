@@ -1,6 +1,8 @@
 {
 	"name": "sfdx-plus",
 	"displayName": "sfdx-plus",
+	"publisher": "bellanc",
+	"repository": "",
 	"description": "",
 	"version": "0.0.1",
 	"engines": {
